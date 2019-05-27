@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Whats fake chat</string>
+    <string name="chats_page_title">Chats</string>
+    <string name="status_page_title">Status></string>
+    <string name="calls_page_title">Calls</string>
+    <string name="setting">Settings</string>
+    <string name="search">Search</string>
+
+    <string name="message_edittext_hint">Type your message</string>
+
+</resources>
